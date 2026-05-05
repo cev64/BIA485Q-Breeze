@@ -58,7 +58,7 @@ Alert levels are grounded in WHO guidelines for CO concentration (mg/m³):
 
 | Metric | Value |
 |--------|-------|
-| Final Policy Accuracy | 94.87% |
+| Final Policy Accuracy | 97% |
 | Total Cumulative Reward | 18,172 |
 | Missed Severe Events | 0 |
 | False Alarms (Safe → Severe) | 0 |
